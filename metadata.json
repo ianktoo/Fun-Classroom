@@ -1,0 +1,7 @@
+{
+  "name": "Classroom FunTime",
+  "description": "A playful React application for classroom engagement using Supabase for student management and Gemini API for interactive questions, TTS, and live conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
